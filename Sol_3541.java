@@ -1,4 +1,4 @@
-public class DQ_13_9 {
+public class Sol_3541 {
     public int maxFreqSum(String s) {
         int freqArr[] = new int[26];
 
@@ -35,7 +35,7 @@ public class DQ_13_9 {
     }
 
     public static void main(String args[]){
-        DQ_13_9 obj = new DQ_13_9();
+        Sol_3541 obj = new Sol_3541();
 
         String test = "successes";
 
