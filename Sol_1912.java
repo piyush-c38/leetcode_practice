@@ -1,3 +1,5 @@
+import java.util.*;
+
 class MovieRentingSystem {
     private static class Entry {
         int shop, movie, price;

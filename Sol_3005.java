@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Solution {
     public int maxFrequencyElements(int[] nums) {
         HashMap<Integer, Integer> numFreq = new HashMap<>();

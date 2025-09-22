@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Router {
     int[][] router;
     int memoryLimit;
