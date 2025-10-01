@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 class Solution_2221 {
     private int calcTriSum(ArrayList<Integer> arr){
         //base case to return the only ele present
